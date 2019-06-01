@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "speechRecog", "speechRecog.vbproj", "{4DC41FC5-DEF7-4796-A820-AA416C793D30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DC41FC5-DEF7-4796-A820-AA416C793D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC41FC5-DEF7-4796-A820-AA416C793D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC41FC5-DEF7-4796-A820-AA416C793D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC41FC5-DEF7-4796-A820-AA416C793D30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8E45A15-7A05-4F27-99B8-9B6F0EFA8E87}
+	EndGlobalSection
+EndGlobal
